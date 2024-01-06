@@ -27,6 +27,6 @@
 
 邮箱:niganmaaayo（你干嘛哎呦）@126.com
 
-用户名:cxkjntmngm（蔡徐坤鸡你太美你干嘛）
+我的用户名:cxkjntmngm（蔡徐坤鸡你太美你干嘛）
 
 仓库名:sbtc（散兵吐槽）
