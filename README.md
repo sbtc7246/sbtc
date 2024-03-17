@@ -1,5 +1,9 @@
 # 一个防散畜岁月史书的仓库（含使用说明及注意事项）
-Updated in January 29,2024 Monday
+
+Updated in March 17,2024
+由于本人遭遇盒威胁，有人开出了我的谷歌账号和推特账号并在推特上恐吓我，要求我封禁自己的贴吧账号，故从此以后停止在贴吧更新
+
+Updated in January 29,2024
 
 修改了用户名，访问地址已同步变成
 github.com/sbtc7246/sbtc
